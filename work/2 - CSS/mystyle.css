@@ -2,12 +2,14 @@
 body {
             background-color: lightblue;
             text-align: center;
+            
     }
 h1 {
             color: navy;
             margin-left: 20px;
             text-align: center;
     }
-img{
-    margin-right: 7cm;
-     }
+    a{
+        text-align: center;
+    }
+    
